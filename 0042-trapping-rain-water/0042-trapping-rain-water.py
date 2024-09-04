@@ -14,7 +14,6 @@ class Solution:
             rmax = max(rmax, height[i])
             right[i] = rmax
         
-        print(left, right)
         # total capacity
         for i in range(len(height)):
             water += min(left[i], right[i]) - height[i]
