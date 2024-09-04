@@ -12,7 +12,8 @@ class Solution:
         dup, dup1, dup2 = None, None, None
         head1, head2 = head, head
         map = {}
-           
+        
+        # Create new list without random
         while head1:
             new_n = Node(head1.val)
             if dup:
@@ -23,11 +24,14 @@ class Solution:
             head1 = head1.next
 
         res, dup2 = dup1, dup1
+        
+        # Create map of org and dup
         while head2:
             map[head2] = dup1
             head2 = head2.next
             dup1 = dup1.next
         
+        # Add random pointer
         while head:
             dup2.random = map.get(head.random)
             dup2 = dup2.next
