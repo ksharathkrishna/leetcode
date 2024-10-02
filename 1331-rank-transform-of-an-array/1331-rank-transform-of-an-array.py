@@ -2,15 +2,14 @@ class Solution:
     def arrayRankTransform(self, arr: List[int]) -> List[int]:
         if not arr:
             return arr
-        res = sorted(arr)
-        print(res)
-        map = {res[0]: 1}
-        rank = 1
-        for i in range(1,len(res)):
-            if res[i-1]!=res[i]:
-                rank += 1
-                map[res[i]] = rank
-        for i in range(len(arr)):
-            res[i] = map[arr[i]]
-        return res
+
+        # Create a sorted version of the array
+        sorted_arr = sorted(set(arr))  # Use set to eliminate duplicates
+
+        # Create a mapping of each unique value to its rank
+        rank_map = {value: rank + 1 for rank, value in enumerate(sorted_arr)}
+
+        # Replace each element in the original array with its corresponding rank
+        return [rank_map[value] for value in arr]
+
         
