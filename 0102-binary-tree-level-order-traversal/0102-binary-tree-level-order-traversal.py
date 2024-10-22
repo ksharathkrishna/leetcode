@@ -12,12 +12,12 @@ class Solution:
         l = [[]]
         while q:
             r, i = q.pop(0)
-            if len(l) < i+1:
-                l.append([r.val])
-            else:
-                l[i].append(r.val)   
-            if r.left:
+            if r:
+                if len(l) < i+1:
+                    l.append([r.val])
+                else:
+                    l[i].append(r.val)   
                 q.append((r.left, i+1))
-            if r.right:
                 q.append((r.right, i+1))
+
         return l
