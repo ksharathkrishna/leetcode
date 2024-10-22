@@ -9,13 +9,17 @@ class Solution:
         
         if not root:
             return False
+        
+        # both trees are same
         if self.in_ord(root, subRoot):
             return True
-        
+    
+        # Check if left or right sub tree is same recursively
         return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
     
     
     def in_ord(self, root, subRoot):
+
         if root is None and subRoot is None:
             return True
         if root is None or subRoot is None:
