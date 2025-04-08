@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ksharathkrishna/leetcode/tree/master/0048-rotate-image) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ksharathkrishna/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ksharathkrishna/leetcode/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ksharathkrishna/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 <!---LeetCode Topics End-->
