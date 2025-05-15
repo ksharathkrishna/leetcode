@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ksharathkrishna/leetcode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ksharathkrishna/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ksharathkrishna/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/ksharathkrishna/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ksharathkrishna/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ksharathkrishna/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ksharathkrishna/leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ksharathkrishna/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ksharathkrishna/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/ksharathkrishna/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ksharathkrishna/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
