@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ksharathkrishna/leetcode/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/ksharathkrishna/leetcode/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ksharathkrishna/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ksharathkrishna/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/ksharathkrishna/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ksharathkrishna/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ksharathkrishna/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ksharathkrishna/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Quickselect
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ksharathkrishna/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ksharathkrishna/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
