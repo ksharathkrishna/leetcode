@@ -66,14 +66,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ksharathkrishna/leetcode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/ksharathkrishna/leetcode/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ksharathkrishna/leetcode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/ksharathkrishna/leetcode/tree/master/0684-redundant-connection) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ksharathkrishna/leetcode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/ksharathkrishna/leetcode/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/ksharathkrishna/leetcode/tree/master/3194-find-words-containing-character) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/ksharathkrishna/leetcode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
