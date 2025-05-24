@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/ksharathkrishna/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ksharathkrishna/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ksharathkrishna/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3194-find-words-containing-character](https://github.com/ksharathkrishna/leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/ksharathkrishna/leetcode/tree/master/3321-type-of-triangle) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ksharathkrishna/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/ksharathkrishna/leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/ksharathkrishna/leetcode/tree/master/3639-zero-array-transformation-i) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/ksharathkrishna/leetcode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
