@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ksharathkrishna/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ksharathkrishna/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ksharathkrishna/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ksharathkrishna/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ksharathkrishna/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ksharathkrishna/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ksharathkrishna/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Linked List
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ksharathkrishna/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ksharathkrishna/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -80,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ksharathkrishna/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ksharathkrishna/leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/ksharathkrishna/leetcode/tree/master/0684-redundant-connection) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ksharathkrishna/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ksharathkrishna/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ksharathkrishna/leetcode/tree/master/0210-course-schedule-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ksharathkrishna/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Tree
 |  |
 | ------- |
@@ -149,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/ksharathkrishna/leetcode/tree/master/0684-redundant-connection) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ksharathkrishna/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
